@@ -54,6 +54,7 @@ public class Squirrel{
     public void climbTree(){
         System.out.print("Climb tree");
     }
+    
     /**
      * get the health value
      * @return the health of the Squirrel
@@ -61,6 +62,7 @@ public class Squirrel{
     public int getHealth(){
         return this.healthInt;        
     }
+    
     /**
      * Scramble around
      */
